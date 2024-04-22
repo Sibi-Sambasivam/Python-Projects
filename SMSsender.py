@@ -1,13 +1,13 @@
-#from trest import Cl
+#import the Twilio Packages
 
-#aid = ''
-#atn = ''
-#client = Client(aid, atn)
+#An Authorization ID here
+#An Authorization Token here
+#The Client id here
 
-#message = client.messages.create(
+#message = createing the client message here(
  # from ='A Phone number that is given to you or a from number',
  # body ='This SMS was sent using Python',
 # to = """Write your Phone Number here"""
 #)
 
-#print(mid)
+#print(ID of the message)
