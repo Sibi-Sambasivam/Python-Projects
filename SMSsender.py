@@ -1,8 +1,8 @@
-#from twilio.rest import Client
+#from trest import Cl
 
-#account_id = ''
-#au_token = ''
-#client = Client(account_id, au_token)
+#aid = ''
+#atn = ''
+#client = Client(aid, atn)
 
 #message = client.messages.create(
  # from ='A Phone number that is given to you or a from number',
@@ -10,4 +10,4 @@
 # to = """Write your Phone Number here"""
 #)
 
-#print(message.id)
+#print(mid)
